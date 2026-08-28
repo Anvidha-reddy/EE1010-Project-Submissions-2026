@@ -26,6 +26,8 @@ Example overall structure:
     └── digital_clock/
         ├── source_code.cpp
         ├── progress_log.pdf
-        ├── progress_log.tex
-        └── README.md
+        ├── progress_log.tex (optional)
+        └── README.md (optional)
+        └── references.txt 
+
 ```
