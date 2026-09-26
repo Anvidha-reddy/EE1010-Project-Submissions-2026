@@ -1,0 +1,10 @@
+For basic structure and ciruit of project
+https://github.com/gadepall/signal-processing/blob/main/ee3900-assignments/charger_lab/main.pdf 
+
+Soldering tutorial(from 4:17)
+https://youtu.be/rK38rpUy568?si=eccaHCiMUSb28emb
+
+Gemini AI, Claude, Chat GPT for 3d printing, and for research of better components to make charger effective.
+
+Took help from Lab staff, TAs and friends.
+
