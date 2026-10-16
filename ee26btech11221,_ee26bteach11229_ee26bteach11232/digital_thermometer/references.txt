@@ -1,7 +1,0 @@
-For basic structure and ciruit of project
-https://github.com/gadepall/pt100/blob/main/main.pdf
-
-Gemini AI, Claude, Chat GPT for 3d printing, and for research of better components to make charger effective.
-
-Took help from TAs and friends.
-
