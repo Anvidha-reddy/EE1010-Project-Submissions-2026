@@ -1,0 +1,7 @@
+For basic structure and ciruit of project
+https://github.com/gadepall/voice-ugv
+
+Gemini AI, Claude, Chat GPT, and for research of better components to make ugv effective.
+
+Took help from TAs and friends.
+
